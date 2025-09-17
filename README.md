@@ -133,21 +133,8 @@ If you use this code or find our work useful, please cite:
 }
 ```
 
----
-
-## License
-
-This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
-
----
-
 ## Contact
 
 For questions or collaborations, please contact the corresponding author:  
 Yudao Sun (sunyd@pcl.ac.cn)
 
----
-
-## Acknowledgment
-
-This work was supported in part by the National Key R&D Program of China, Shaanxi Province Science Foundation Fund, and other grants (see paper for details).
